@@ -13,5 +13,9 @@ namespace BibliotekaWspolna
         {
             Console.WriteLine("TestNowejFunkcjonalnosciOskar działa prawidłowo");
         }
+        public void TestNowejFunkcjonalnosciPiotr()
+        {
+            Console.WriteLine("TestNowejFunkcjonalnosciPiotr działa prawidłowo");
+        }
     }
 }

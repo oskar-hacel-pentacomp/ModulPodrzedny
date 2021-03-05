@@ -8,5 +8,10 @@ namespace BibliotekaWspolna
         {
             Console.WriteLine("Biblioteka wspólna działa prawidłowo");
         }
+
+        public void TestNowejFunkcjonalnosciOskar()
+        {
+            Console.WriteLine("TestNowejFunkcjonalnosciOskar działa prawidłowo");
+        }
     }
 }
